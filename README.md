@@ -32,5 +32,8 @@ Identifies performance gaps
 - Mobile integration
 - School deployment pilot
 
+ 📸 Dashboard Preview
+ "C:\Users\BestEmpireComputers\Pictures\Screenshots\OVERVIEW.png"
+
 ## 👤 Author
 JOHN SUNDAY ECHEOFU
