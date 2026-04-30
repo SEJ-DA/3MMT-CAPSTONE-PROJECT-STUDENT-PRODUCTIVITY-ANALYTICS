@@ -33,7 +33,7 @@ Identifies performance gaps
 - School deployment pilot
 
  📸 Dashboard Preview
- "C:\Users\BestEmpireComputers\Pictures\Screenshots\OVERVIEW.png"
+<img width="1366" height="768" alt="OVERVIEW" src="https://github.com/user-attachments/assets/1409bf39-fd18-4473-90a1-b47ea4a956f5" />
 
 ## 👤 Author
 JOHN SUNDAY ECHEOFU
