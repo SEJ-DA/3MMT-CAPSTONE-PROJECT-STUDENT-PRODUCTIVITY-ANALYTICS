@@ -33,7 +33,10 @@ Identifies performance gaps
 - School deployment pilot
 
  📸 Dashboard Preview
-<img width="1366" height="768" alt="OVERVIEW" src="https://github.com/user-attachments/assets/1409bf39-fd18-4473-90a1-b47ea4a956f5" />
+<img width="1366" height="768" alt="overview" src="https://github.com/user-attachments/assets/5d327f7f-68a0-4265-a575-b0860973ba9c" />
+<img width="1366" height="768" alt="gender breakdown" src="https://github.com/user-attachments/assets/6d500312-a057-4279-88b6-d6ebee77fec6" />
+<img width="1366" height="768" alt="Distraction analysis" src="https://github.com/user-attachments/assets/2ce853e9-41a8-435b-9fe1-b4bcbc6ec2b7" />
+<img width="1366" height="768" alt="Study Category" src="https://github.com/user-attachments/assets/3b917712-e2b4-4dc3-9d30-9c9e9e821039" />
 
 ## 👤 Author
 JOHN SUNDAY ECHEOFU
