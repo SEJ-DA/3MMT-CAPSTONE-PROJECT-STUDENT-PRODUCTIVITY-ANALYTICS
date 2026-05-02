@@ -33,10 +33,12 @@ Identifies performance gaps
 - School deployment pilot
 
  📸 Dashboard Preview
-<img width="1366" height="768" alt="overview" src="https://github.com/user-attachments/assets/5d327f7f-68a0-4265-a575-b0860973ba9c" />
-<img width="1366" height="768" alt="gender breakdown" src="https://github.com/user-attachments/assets/6d500312-a057-4279-88b6-d6ebee77fec6" />
-<img width="1366" height="768" alt="Distraction analysis" src="https://github.com/user-attachments/assets/2ce853e9-41a8-435b-9fe1-b4bcbc6ec2b7" />
-<img width="1366" height="768" alt="Study Category" src="https://github.com/user-attachments/assets/3b917712-e2b4-4dc3-9d30-9c9e9e821039" />
+
+<img width="1031" height="558" alt="overview1" src="https://github.com/user-attachments/assets/f3c82573-1a68-452d-9c46-ab58fab150e5" />
+<img width="1060" height="604" alt="Gender breakdown" src="https://github.com/user-attachments/assets/9217300f-a9f1-42a8-a24f-f5d104a39d38" />
+<img width="1059" height="609" alt="Distraction Analysis" src="https://github.com/user-attachments/assets/39a63392-a98b-48ed-bfe3-6f9d31de3bb5" />
+<img width="1016" height="566" alt="Study Category" src="https://github.com/user-attachments/assets/139ac24c-9861-4ac7-8728-7a7f2104ccbf" />
+
 
 ## 👤 Author
 JOHN SUNDAY ECHEOFU
