@@ -1,4 +1,4 @@
-# 3MMT-CAPSTONE-PROJECT-STUDENT-PRODUCTIVITY-ANALYTICS
+# 3MTT-CAPSTONE-PROJECT-STUDENT-PRODUCTIVITY-ANALYTICS
 Data analytics project analyzing student productivity and digital distraction using Power BI
 # Student Productivity & Distraction Analytics Dashboard
 
